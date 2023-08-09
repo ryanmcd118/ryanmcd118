@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Hello, I'm Ryan!
+
+I'm a Senior Engineer and Lead Engineering Instructor @ Codesmith NYC. I'm experienced in building full-stack JavaScript applications with React, Node, Express, and relational & non-relational databases. I'm also an enthusiastic contributor to the open-source community and co-creator of lexiQL, a GraphQL migration aid and database visualization tool. 
+
+When I'm not managing teams or putting down code, I'm a fan of scuba diving, trying to keep houseplants alive, eating vegan pineapple pizza, birdwatching, and slowly consuming the half-read books piled up on my bedside table. 
 
 <!--
 **ryanmcd118/ryanmcd118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
